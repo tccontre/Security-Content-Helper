@@ -43,9 +43,11 @@ def intro():
             ut.update_config_field(config, 'substring_filter', filter_substr)
 
             correlation_filters = ut.get_config_value(config, 'correlation_filter_fields')
+            st.markdown("*:blue[note: as of now, only these fields are available]*")
             ut.update_config_field(config, 'correlation_filter_fields', correlation_filters)
 
             correlation_substr = ut.get_config_value(config, 'correlation_filter_substr')
+            st.markdown("*:blue[note: as of now, only these fields are available]*")
             ut.update_config_field(config, 'correlation_filter_substr', correlation_substr)
 
             correlation_templt = config["Settings"]["correlation_template"]
