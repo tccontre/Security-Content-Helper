@@ -95,7 +95,7 @@ filtering feature that allows users to easily narrow down the security content b
 ![cor_filter](https://github.com/tccontre/Security-Content-Helper/assets/26181693/c5298b4a-bbb2-4f64-8b43-37a7dc61ed59)
 
 ### Pre-Processed Data
-pre processed group of detection for correlation searches
+pre processed group of detections for correlation searches
 
 ![pre-process](https://github.com/tccontre/Security-Content-Helper/assets/26181693/657991dc-5075-4c6a-a27e-a05066cc9c7a)
 
