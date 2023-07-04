@@ -9,6 +9,13 @@ import pandas as pd
 from PIL import Image
 import configparser
 
+"""
+Author: Teoderick Contreras - Br3akp0int
+Description: a simple streamlit tool designed specifically to facilitate the filtering, analysis, 
+             and development of Splunk security content correlation searches for enhanced security operations. 
+             It empowers security analysts by providing efficient data handling capabilities and enabling the creation 
+             of effective detection rules and correlations within the Splunk environment.
+"""
 
 class Utility:
 
