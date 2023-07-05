@@ -1,6 +1,7 @@
 # Security-Content-Helper
 
-![logo](https://github.com/tccontre/Security-Content-Helper/assets/26181693/5b3ee379-ce39-4d4f-b506-ae736f489553)
+![logo](https://github.com/tccontre/Security-Content-Helper/assets/26181693/8456a3f0-28e3-4677-a393-23cbcda24276)
+
 
 ## Description:
 <b>Security-Content-Helper</b> is a tool specifically designed to facilitate the filtering, analysis, and development of Splunk security content correlation searches for enhanced security operations. It empowers security analysts by providing efficient data handling capabilities and enabling the creation of effective detection rules and correlations within the Splunk environment.
