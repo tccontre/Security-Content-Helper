@@ -177,6 +177,7 @@ class Utility:
         counts_df = pd.DataFrame({"detection type count in this filter":counts.values}, index=counts.index)
 
         counts_df = counts_df.transpose()
+        counts_df['Total Detection Count'] = counts_df[['TTP', 'Anomaly', 'Hunting']].sum(axis=1)
         st.dataframe(counts_df)
         return
     
