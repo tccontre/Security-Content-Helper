@@ -62,7 +62,7 @@
 ### Configuration
 Provide user-friendly access to key fields in the config.ini file, enabling users to easily modify and enhance its settings to suit their specific needs and optimize usage.
 
-<img src="images/configuration.png"> </img>
+<img src="images/cofiguration.png"> </img>
 
 ```
 - security_content_path     : the security content detections folder path
