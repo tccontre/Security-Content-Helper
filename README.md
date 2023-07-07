@@ -51,7 +51,7 @@
 
 - git clone the project
   ```
-  git clone 
+  git clone https://github.com/tccontre/Security-Content-Helper
   ```
 - run the application
   ```
