@@ -1,6 +1,6 @@
 # Security-Content-Helper
 
-![logo](https://github.com/tccontre/Security-Content-Helper/assets/26181693/8456a3f0-28e3-4677-a393-23cbcda24276)
+<img src="images/banner.png"> </img>
 
 
 ## Description:
@@ -62,7 +62,7 @@
 ### Configuration
 Provide user-friendly access to key fields in the config.ini file, enabling users to easily modify and enhance its settings to suit their specific needs and optimize usage.
 
-![cofiguration](https://github.com/tccontre/Security-Content-Helper/assets/26181693/1f0cd270-4007-4df3-9511-0c13de03fb4b)
+<img src="images/configuration.png"> </img>
 
 ```
 - security_content_path     : the security content detections folder path
@@ -77,28 +77,28 @@ Provide user-friendly access to key fields in the config.ini file, enabling user
 Generate a comprehensive security content data frame that serves as the foundation for efficient data filtering and processing across various tasks within this tool.
 
 
-![generate](https://github.com/tccontre/Security-Content-Helper/assets/26181693/56c7e447-92bf-44bf-9643-7c88bfcc2672)
+<img src="images/generate.png"> </img>
 
 It will also generate <b>security_content_df.json</b> to create a structured dataset that can be utilized for various security-related tasks.
 
-![generate2](https://github.com/tccontre/Security-Content-Helper/assets/26181693/8f5c9633-b5a0-4f93-8df6-939ffcd03009)
+<img src="images/generate2.png"> </img>
 
 ### Security Content Filter
 a feature to filter the security content by detection name, search, descriptions, analytic story, mitre attack id and etc
 
-![sec_filter](https://github.com/tccontre/Security-Content-Helper/assets/26181693/9602f611-792d-4a60-8860-7e679002a94d)
+<img src="images/sec_filter.png"> </img>
 
 ### Correlation Search Helper 
 <b><i>(this is only suggestion base on filter fields from security content. It still need manual testing and tuning)</i></b>
 
 filtering feature that allows users to easily narrow down the security content based on specific fields, facilitating efficient correlation search development.
 
-![cor_filter](https://github.com/tccontre/Security-Content-Helper/assets/26181693/c5298b4a-bbb2-4f64-8b43-37a7dc61ed59)
+<img src="images/cor_filter.png"> </img>
 
 ### Pre-Processed Data
 pre processed group of detections for correlation searches
 
-![pre-process](https://github.com/tccontre/Security-Content-Helper/assets/26181693/657991dc-5075-4c6a-a27e-a05066cc9c7a)
+<img src="images/pre-process.png"> </img>
 
 
 
